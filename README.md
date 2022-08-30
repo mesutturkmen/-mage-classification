@@ -1,2 +1,3 @@
-# -mage-classification
-image classification using transfer learning
+
+This project's purpose is image classification  using inceptionResnetV2 model.
+
